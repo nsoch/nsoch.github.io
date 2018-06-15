@@ -8,7 +8,6 @@ markdown:            kramdown
 highlighter:         rouge
 permalink   : /:year/:title/
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-github: "https://www.github.com/vsoch/nsoch.github.io"
 baseurl: "/nsoch.github.io"
 
 # Collections (projects)
