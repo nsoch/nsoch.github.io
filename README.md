@@ -97,7 +97,7 @@ images under `pictures` are the ones that will render in the gallery. I'm lazy, 
 generate this for me, but you could do it manually.
 
 ```bash
-python assets/scripts/generate_pictures.py assets/img/project/uprooted
+python assets/scripts/generate_gallery.py assets/img/project/uprooted
 ```
 
 Finally, you can add any notes or quoted content after the `---` and before the include
