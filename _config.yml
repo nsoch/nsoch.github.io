@@ -1,0 +1,30 @@
+# Site Build Settings
+
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink   : /:year/:title/
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+github: "https://www.github.com/vsoch/nsoch.github.io"
+#baseurl: "nsoch.github.io"
+
+# Collections (projects)
+defaults:
+  -
+    scope:
+      path: "projects"
+    values:
+      permalink: /:path/:basename/
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		     "natacha"
+description:	     "Natacha Villamia Sochat"
+author:              "@vsoch"
+
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+feed:
+  path: rss-feed.xml

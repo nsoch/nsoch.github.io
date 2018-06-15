@@ -1,0 +1,32 @@
+---
+layout: misc
+permalink: contact
+title: Contact
+---
+
+Please don't be afraid to get in touch!
+
+<form action="https://formspree.io/nsochat@gmail.com" method="POST">
+
+  <div class="form-group">
+    <h2 class="heading">Contact</h2>
+    <div class="controls">
+      <input type="text" id="name" class="floatLabel" name="name">
+      <label for="name">Name</label>
+    </div>
+    <div class="controls">
+      <input type="text" id="email" class="floatLabel" name="_replyto">
+      <label for="email">Email</label>
+    </div>       
+  </div>
+    <div class="grid"><br>
+      <div class="controls">
+      <textarea name="comments" class="floatLabel" id="comments"></textarea>
+      <label for="comments">Comments</label>
+       </div>
+      <button type="submit" value="Submit" class="col-1-4">Send</button>
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="_next" value="https://{{ site.baseurl }}/thanks" />
+    <input type="hidden" name="_subject" value="[natacha.net] Hello!" />
+  </div>
+</form>

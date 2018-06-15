@@ -1,0 +1,19 @@
+---
+layout: default
+title: Projects
+permalink: /projects
+---
+
+<h1>{{ page.title }}</h1>
+<h4>My Work is about what you see</h4>
+
+<p>These are projects I have created over the last 15 years. Style and materials are elements that contribute to that particular object's conceptual need. Objects made are not black and white, they overlap and fuse, go in different directions and separate, keeping kernels of the memory of the Actual Experience. They travel many roads simultaneously, reflecting a nonlinear existence and mirroring the complexity of life. Intelligence and intuition simultaneously aim for the elusive wonder and resonance that makes an object go beyond the artist. In 2001 I labelled myself as a PostConceptual pluralist. However, in 2010 I think labels are for art historians, and to be frank art history can only be written in retrospect. Most importantly to me, since I believe whole heartedly that there are too many words in art, my work is about what you see.</p>
+
+{% for project in site.data.projects %}
+  <a href="{{ site.github.url }}/projects/{{ project.directory }}">
+    <div class="featured-posts"
+    {% if project.image %}style="background-image:url({{ site.github.url }}/assets/img/project/{{ project.directory }}/{{ project.image }})"{% endif %}>
+     <h2><span>{{ project.title }}</span></h2>
+    </div>
+  </a>
+{% endfor %}
