@@ -7,7 +7,6 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink   : /:year/:title/
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 baseurl: "/nsoch.github.io"
 
 # Collections (projects)
@@ -17,6 +16,14 @@ defaults:
       path: "projects"
     values:
       permalink: /:path/:basename/
+  -
+    scope:
+      path: "" # empty string for all files
+      type: posts
+    values:
+      permalink: /:year/:title/
+      layout: post
+      comments: true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		     "natacha"
@@ -27,3 +34,5 @@ author:              "@vsoch"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 feed:
   path: rss-feed.xml
+
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
