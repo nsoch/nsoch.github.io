@@ -5,7 +5,8 @@ This is the future home natacha.net.
 ## Archive
 The old site is provided here in [archive](archive). These files have not been 
 touched or changed since download from (deprecated) natacha.net on 
-June 13, 2018.
+June 13, 2018. The NKG Gallery site has been moved to a separate repository
+at [nkg](https://www.github.com/vsoch/nkg).
 
 ## How does this work? 
 
@@ -20,6 +21,52 @@ Github pages is that it gives you web hosting, for free, and with https. It also
 makes it really easy to update your site because you just make changes to the repository
 on your local computer and then commit and push to Github. This means you do
 need to familiarize yourself with the [Github flow to use it](https://guides.github.com/introduction/flow/).
+
+## Introduction to Github
+You must read about [Github flow](https://guides.github.com/introduction/flow/) before
+any of this makes sense. You should understand the following concepts:
+
+ - what a repository is
+ - the difference between local and remote
+ - branches and commits
+
+and of course have a Github account! Once you do, you should fork this repository in
+the web interface to your account, and then clone your fork. If your username is `vsoch`
+the clone would look like this:
+
+```bash
+git clone https://www.github.com/vsoch/nsoch.github.io
+cd nsoch.github.io
+```
+
+We will use [jekyll](https://jekyllrb.com/docs/quickstart/) to build and run a server.
+
+```bash
+bundle exec jekyll serve
+```
+
+## Making Changes
+Generally, you will want to check out a new branch for your changes or new feature.
+
+```bash
+git checkout -b myfeature master
+```
+
+And then make the changes, and commit with a message.
+
+```bash
+git commit -a -m "This is a note about this change!"
+```
+
+Then you can push to your branch:
+
+```bash
+git push origin myfeature
+```
+
+And open a [pull request](https://help.github.com/articles/about-pull-requests/) in the web interface to the master branch when you are ready.
+
+
 
 ## How do I add a new project?
 
