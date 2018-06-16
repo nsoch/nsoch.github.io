@@ -10,7 +10,6 @@ picture_path: avatar
 preview:
   original: nata.jpg
 pictures:
-- original: nata.jpg
 - original: avatar4.jpg
 - original: avatar.jpg
 - original: avatar2.jpg
