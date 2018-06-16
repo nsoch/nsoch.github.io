@@ -67,6 +67,32 @@ git push origin myfeature
 And open a [pull request](https://help.github.com/articles/about-pull-requests/) in the web interface to the master branch when you are ready.
 
 
+## How do I write a new blog post?
+You should create a new file in the folder `_posts` (and put it inside a subdirectory that if appropriate)
+that is named in this format:
+
+```bash
+_posts/poetry/YEAR-MONTH-DAY-TITLE.md
+_posts/poetry/2018-06-13-resilient.md
+```
+
+You can create a directory if needed under `_posts`, all files here will be automatically rendered into posts, and the URL will capture the year and title (the folder organization is just for you, it doesn't impact the URL). For example, for the file above, the permalink (means permanent link) would be at `vsoch.github.io/nsoch.github.io/2018/resilient`
+
+The top section of the file is called the front end matter, and you should generally modify the title
+and categories, and your name.
+
+```bash
+---
+layout: post
+title: "Resilient"
+author: "Vanessa Sochat"
+categories: project
+tags: [blog,thinking,poem]
+---
+```
+
+Underneath that you can write whatever you like! The text under the `---` is the bulk of the post,
+and it should be written in [Github flavored markdown](https://guides.github.com/features/mastering-markdown/). 
 
 ## How do I add a new project?
 
