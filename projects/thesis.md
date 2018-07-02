@@ -4,7 +4,7 @@ title: MFA Thesis
 no_menu_item: true # required only for this example website because of menu construction
 categories: project
 tags: [avatar]
-image: thesis/frontcardtest.jpg
+image: thesis/frontcardtest1.jpg
 support: [jquery, gallery]
 picture_path: thesis
 preview:
