@@ -25,7 +25,7 @@ pictures:
 - original: root4.jpg
 - original: backroot.jpg
 ---
-I have been a gardener all of my adult life. As a child I collected seeds for 'La Reforma Agraria' in Cuba. As an undergrad I sowed seeds 
+>I have been a gardener all of my adult life. As a child I collected seeds for 'La Reforma Agraria' in Cuba. As an undergrad I sowed seeds 
 in paper cups in my Boston apartment. Later when I owned a home I hybridzed daylilies. The life force of seeds has always been a wondrous 
 entity that gives me great awe just to be alive. I view words as seeds (or at times as viral infections).
 
