@@ -26,11 +26,13 @@ pictures:
 - original: backroot.jpg
 ---
 
-The 1996 paintings that gave rise to the Americana Hispana Project were the building blocks for the conceptual world of UpRooted in 1999.
+The conceptual world for the Uprroted Project came into fruition in 1999 as an important epiphany.
 
-As a child of immigrants I have been very aware of being UpRooted. Rather than viewing cultural uprooting as a loss, it can be thought of as a fuller, richer condition in which the seemingly destructive chaotic struggle results in the creation of stronger hybrid roots.
+As a child of immigrants I have been very aware of being UpRooted. As a child of immigrants I have been very aware of being Uprroted.
+As an adult, rather than viewing cultural uprooting as a loss, I saw it as a fuller, richer condition in shich the seemingly chaotic 
+disruption of clashing cultures actually results in the creation of stronger hybrid roots.
 
-I have an obsession with the forces of nature. The Earth is one mutable living being and we are some of its cells. Plants and trees live above ground and underground simultaneously interconnected (visible and not visible, concious and unconscious). Trees embody a form that exists in nature in infinite scale (fractal qualities of matter). A science-fiction story I read over 30 years ago (Alien Earth by Edmond Hamilton, © 1949) permanently changed my poetic view of life. The use of trees as a metaphor for connectedness on the microscopic and macroscopic scale was thus a natural consequence.
+As a biologist I see the earth as one mutable living being with biological entities being some of it's cells. Plants and trees live above ground and underground simultaneously interconnected (visible and not visible, concious and unconscious). Plants and trees embody a form that exists in nature in infinite scale (fractal qualities of matter). A science-fiction story I read over 30 years ago (Alien Earth by Edmond Hamilton, © 1949) permanently changed my poetic view of life. The use of trees as a metaphor for connectedness on the microscopic and macroscopic scale was thus a natural consequence for some later work.
 
 
 {% include gallery.html gallery=site.data.projects.uprooted %}
