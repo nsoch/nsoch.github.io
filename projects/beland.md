@@ -7,8 +7,6 @@ tags: [neuromorphic, installation, site specific]
 image: neuromorphic/neuro.jpg
 support: [jquery, gallery]
 picture_path: neuromorphic
-preview:
-  original: 1.jpg
 pictures:
 - original: 1.jpg
 - original: 2.jpg

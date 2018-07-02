@@ -139,8 +139,6 @@ tags: [uprooted]
 image: uprooted/uprooted.jpg
 support: [jquery, gallery]
 picture_path: uprooted
-preview:
-- original: uprooted.jpg
 pictures:
 - original: uprooted.jpg
 - original: root0.jpg
@@ -165,7 +163,7 @@ pictures:
 
 You can change the title, and tags, and "image" should correspond to the directory and then image name
 that you want to render as the "main" gallery image. `picture_path` should correspond with `directory`
-in the site metadata, an then `preview` should again be some primary image in your directory. The list of
+in the site metadata. Remember that the project preview image is described in the [_data/projects.yml](_data/projects.yml) file and it should be in the same folder. The list of
 images under `pictures` are the ones that will render in the gallery. I'm lazy, so I write a python script to
 generate this for me, but you could do it manually.
 

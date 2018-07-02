@@ -7,8 +7,6 @@ tags: [avatar]
 image: avatar/nata.jpg
 support: [jquery, gallery]
 picture_path: avatar
-preview:
-  original: nata.jpg
 pictures:
 - original: avatar4.jpg
 - original: avatar.jpg

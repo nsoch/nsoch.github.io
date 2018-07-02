@@ -7,8 +7,6 @@ tags: [reconstruction]
 image: reconstruction/reconst.jpg
 support: [jquery, gallery]
 picture_path: reconstruction
-preview:
-  original: reconst.jpg
 pictures:
 - original: reconst.jpg
 ---

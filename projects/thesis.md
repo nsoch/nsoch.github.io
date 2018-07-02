@@ -7,8 +7,6 @@ tags: [avatar]
 image: thesis/frontcardtest1.jpg
 support: [jquery, gallery]
 picture_path: thesis
-preview:
-  original: frontcardtest1.jpg
 pictures:
 - original: 2.jpg
 - original: 20a.jpg

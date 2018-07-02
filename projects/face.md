@@ -7,8 +7,6 @@ tags: [uprooted, latina, hispanic, ritual of giving, icon]
 image: uprooted/uprooted.jpg
 support: [jquery, gallery]
 picture_path: uprooted
-preview:
-- original: uprooted.jpg
 pictures:
 - original: uprooted.jpg
 - original: root0.jpg

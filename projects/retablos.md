@@ -7,8 +7,6 @@ tags: [retablos]
 image: retablos/dreaming.jpg
 support: [jquery, gallery]
 picture_path: retablos
-preview:
-  original: dreaming.jpg
 pictures:
 - original: retablo3a.jpg
 - original: retablo3.jpg

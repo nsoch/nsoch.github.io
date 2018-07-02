@@ -1,14 +1,12 @@
 ---
 layout: gallery
-title: Move Over Andy.
+title: Move Over Andy
 no_menu_item: true # required only for this example website because of menu construction
 categories: project
 tags: [uprooted]
 image: uprooted/uprooted.jpg
 support: [jquery, gallery]
 picture_path: uprooted
-preview:
-- original: uprooted.jpg
 pictures:
 - original: uprooted.jpg
 - original: root0.jpg

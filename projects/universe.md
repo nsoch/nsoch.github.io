@@ -7,8 +7,6 @@ tags: [neuromorphic]
 image: universe/infection.jpg
 support: [jquery, gallery]
 picture_path: universe
-preview:
-  original: infection.jpg
 pictures:
 - original: infection.jpg
 ---

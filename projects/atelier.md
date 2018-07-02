@@ -7,8 +7,6 @@ tags: [boston painters heritage, classical painting, realism, traditional, seein
 image: uprooted/uprooted.jpg
 support: [jquery, gallery]
 picture_path: uprooted
-preview:
-- original: uprooted.jpg
 pictures:
 - original: uprooted.jpg
 - original: root0.jpg
