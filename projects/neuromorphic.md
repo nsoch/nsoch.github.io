@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Neuromorphic, 2011
+title: Beland Gallery Installation 2011
 no_menu_item: true # required only for this example website because of menu construction
 categories: project
 tags: [neuromorphic]
