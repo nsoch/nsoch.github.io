@@ -25,7 +25,7 @@ pictures:
 - original: root4.jpg
 - original: backroot.jpg
 ---
-From my Uprooted Project and my art history foundation, I created the 'Americana Hispana' project.
+>From my Uprooted Project and my art history foundation, I created the 'Americana Hispana' project.
 This project is in a classical style intentionally.
 I also employed my use of tapestry as a metaphor in some of my works.
 This is an important project in terms of its socio/political statement.
