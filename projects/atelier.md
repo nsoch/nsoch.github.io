@@ -44,4 +44,4 @@ Though I cannot 'site-size' in my encounters sharing a live model with fellow ar
 if I wish.
 
 
-{% include gallery.html gallery=site.data.projects.uprooted %}
+{% include gallery.html %}

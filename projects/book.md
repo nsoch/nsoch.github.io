@@ -30,4 +30,4 @@ I don't have many of these, and have about half a dozen I am still working on.
 I have always loved books. They were my salvation as a child.
 
 
-{% include gallery.html gallery=site.data.projects.uprooted %}
+{% include gallery.html %}

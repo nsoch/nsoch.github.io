@@ -48,4 +48,4 @@ pictures:
 
 After my MFA thesis I continued to create work that resides in the NeuroMorphic Unverse.
 
-{% include gallery.html gallery=site.data.projects.neuromorphic %}
+{% include gallery.html %}

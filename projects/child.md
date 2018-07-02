@@ -29,5 +29,4 @@ Allowing myself the freedom to paint with no importance beyond the child, I have
 Many times I have given these works to actual children as a gift.
 Just for the joy and pleasure, nothing more.
 
-
-{% include gallery.html gallery=site.data.projects.uprooted %}
+{% include gallery.html %}

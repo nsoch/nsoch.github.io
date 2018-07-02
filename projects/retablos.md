@@ -39,4 +39,4 @@ I appropriated the concept in 2003 to use for presenting ideas of things that se
 
 I value the small scale of the presentation and the intimacy needed to experience them.
 
-{% include gallery.html gallery=site.data.projects.retablos %}
+{% include gallery.html %}

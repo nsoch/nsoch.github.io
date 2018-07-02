@@ -19,4 +19,4 @@ This process led to the interrelationship of emergence, chaos, complexity scienc
 
 Chaos is the ultimate creator of the new.
 
-{% include gallery.html gallery=site.data.projects.reconstruction %}
+{% include gallery.html %}

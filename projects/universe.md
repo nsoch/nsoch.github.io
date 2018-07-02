@@ -20,4 +20,4 @@ My interest in archaeology as a metaphor for the unconscious (as presented by Si
 
 The NeuroMorphic Universe project includes the poetic 'Words are Seeds' project.
 
-{% include gallery.html gallery=site.data.projects.universe %}
+{% include gallery.html %}

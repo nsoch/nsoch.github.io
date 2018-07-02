@@ -68,4 +68,4 @@ A very important part of the thesis was 'the Actual Experience is the work of ar
 
 The work comprised three rooms in the Aidekman Gallery at Tufts University. The first room (gallery entrance) had an installation that was a self-portrait. This was presented as a drawing of a NeuroMorphic tree that was the entire wall of the room. A pedestal and bookshelves had important books in my life as well as a few hundred small sculptural 'I guys'. The main gallery space had small and large NeuroMorphic Universe paintings. The third part of the gallery had paintings, 'I guys' throughout the room and a video installation.
 
-{% include gallery.html gallery=site.data.projects.avatar %}
+{% include gallery.html %}

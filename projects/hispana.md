@@ -28,5 +28,4 @@ This project is in a classical style intentionally.
 I also employed my use of tapestry as a metaphor in some of my works.
 This is an important project in terms of its socio/political statement.
 
-
-{% include gallery.html gallery=site.data.projects.uprooted %}
+{% include gallery.html %}

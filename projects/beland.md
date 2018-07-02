@@ -53,4 +53,4 @@ in this small gallery.
 Before entering the room I welcomed the viewer with a ceiling long work that draped to the floor.
 Evolution - I look forward to more opportunities in this site specific installation realm.
 
-{% include gallery.html gallery=site.data.projects.neuromorphic %}
+{% include gallery.html %}

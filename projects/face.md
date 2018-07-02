@@ -37,4 +37,4 @@ The RITUAL of Giving is important since so much of society is concerned with tak
 done for many years.
 
 
-{% include gallery.html gallery=site.data.projects.uprooted %}
+{% include gallery.html %}

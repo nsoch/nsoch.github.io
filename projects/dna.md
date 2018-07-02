@@ -39,5 +39,4 @@ participated in this ritual of the 'DNA of Memory'.
 
 "The Actual Experience is the Work of Art"
 
-
-{% include gallery.html gallery=site.data.projects.uprooted %}
+{% include gallery.html %}

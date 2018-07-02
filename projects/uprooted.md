@@ -33,4 +33,4 @@ disruption of clashing cultures actually results in the creation of stronger hyb
 As a biologist I see the earth as one mutable living being with biological entities being some of it's cells. Plants and trees live above ground and underground simultaneously interconnected (visible and not visible, concious and unconscious). Plants and trees embody a form that exists in nature in infinite scale (fractal qualities of matter). A science-fiction story I read over 30 years ago (Alien Earth by Edmond Hamilton, © 1949) permanently changed my poetic view of life. The use of trees as a metaphor for connectedness on the microscopic and macroscopic scale was thus a natural consequence for some later work.
 
 
-{% include gallery.html gallery=site.data.projects.uprooted %}
+{% include gallery.html %}

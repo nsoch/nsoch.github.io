@@ -30,4 +30,4 @@ Currently I am still constructing the work.
 Once I have enough work in this project I will upload it for viewing.
 
 
-{% include gallery.html gallery=site.data.projects.uprooted %}
+{% include gallery.html %}

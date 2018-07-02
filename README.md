@@ -158,7 +158,7 @@ pictures:
 
 > Beland Gallery Essex Art Center, Lawrence MA, June 17 - August 11, 2011
 
-{% include gallery.html gallery=site.data.projects.uprooted %}
+{% include gallery.html %}
 ```
 
 You can change the title, and tags, and "image" should correspond to the directory and then image name
@@ -172,8 +172,7 @@ python assets/scripts/generate_gallery.py assets/img/project/uprooted
 ```
 
 Finally, you can add any notes or quoted content after the `---` and before the include
-statement. For the include statement, you need to change the `gallery=site.data.projects.uprooted` to point
-to the correct project. In our example, we would change that to `gallery=site.data.projects.neuromorphic`
+statement. 
 
 ## License
 
