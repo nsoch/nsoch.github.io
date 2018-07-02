@@ -35,7 +35,7 @@ pictures:
 - original: retablo9.jpg
 ---
 
-Retablos have along history in Spanish speaking cultures. They are small personal altars of worship. Here is a link for those who need some background information on <a href="http://en.wikipedia.org/wiki/Retablo" target="_blank">retablos</a>.
+Retablos have along history in Spanish speaking cultures. They are smaller scale personal altars of worship. Here is a link for those who need some background information on <a href="http://en.wikipedia.org/wiki/Retablo" target="_blank">retablos</a>.
 
 I appropriated the concept in 2003 to use for presenting ideas of things that seem insignificant, yet that are important in life.
 
