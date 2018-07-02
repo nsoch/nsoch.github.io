@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Beland Gallery Installation 2011
+title: NeuroMorphic
 no_menu_item: true # required only for this example website because of menu construction
 categories: project
 tags: [neuromorphic]
@@ -48,6 +48,6 @@ pictures:
 - original: 36.jpg
 ---
 
-> Beland Gallery Essex Art Center, Lawrence MA, June 17 - August 11, 2011
+After my MFA thesis I continued to create work that resides in the NeuroMorphic Unverse.
 
 {% include gallery.html gallery=site.data.projects.neuromorphic %}
