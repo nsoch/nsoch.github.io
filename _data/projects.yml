@@ -19,10 +19,6 @@
  directory: universe
  image: infection.jpg
 -
- title: Avatar
- directory: avatar
- image: nata.jpg
--
  title: MFA Thesis
  directory: thesis
  image: frontcard.jpg
