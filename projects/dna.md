@@ -6,7 +6,7 @@ categories: project
 tags: [uprooted, DNA, memory, performance art, encaustic art, garden]
 image: garden/inmygarden.jpg
 support: [jquery, gallery]
-picture_path: uprooted
+picture_path: garden
 pictures:
 - original: inmygi.jpg
 - original: inmyg1x.jpg
