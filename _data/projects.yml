@@ -1,15 +1,19 @@
 -
- title: Neuromorphic, 2011
- directory: neuromorphic
- image: 1.jpg
--
  title: Uprooted
  directory: uprooted
  image: uprooted.jpg
 -
+ title: Beland Installation
+ directory: neuromorphic
+ image: 1.jpg
+-
  title: Retablos
  directory: retablos
  image: dreaming.jpg
+ -
+ title:In My Garden - the DNA of Memory
+ directory: dna
+ image: inmygarden.jpg
 -
  title: Reconstruction
  directory: reconstruction
