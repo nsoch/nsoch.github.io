@@ -8,20 +8,7 @@ image: uprooted/uprooted.jpg
 support: [jquery, gallery]
 picture_path: uprooted
 pictures:
-- original: uprooted.jpg
-- original: root0.jpg
-- original: root10.jpg
-- original: root11.jpg
-- original: root3.jpg
-- original: root8.jpg
-- original: root5.jpg
-- original: root9.jpg
-- original: root2.jpg
-- original: root6.jpg
-- original: root1.jpg
-- original: root7.jpg
-- original: root4.jpg
-- original: backroot.jpg
+
 ---
 >Andy Warhol is emblematic of contemporary art insider culture.
 'Move Over Andy' is a project displays the relevance of contemporary American Hispanic culture in art.
