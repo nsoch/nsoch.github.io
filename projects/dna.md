@@ -3,25 +3,33 @@ layout: gallery
 title: In my Garden - the DNA of Memory.
 no_menu_item: true # required only for this example website because of menu construction
 categories: project
-tags: [uprooted, DNA, memory, performance art, encaustic art]
-image: uprooted/uprooted.jpg
+tags: [uprooted, DNA, memory, performance art, encaustic art, garden]
+image: garden/inmygarden.jpg
 support: [jquery, gallery]
 picture_path: uprooted
 pictures:
-- original: uprooted.jpg
-- original: root0.jpg
-- original: root10.jpg
-- original: root11.jpg
-- original: root3.jpg
-- original: root8.jpg
-- original: root5.jpg
-- original: root9.jpg
-- original: root2.jpg
-- original: root6.jpg
-- original: root1.jpg
-- original: root7.jpg
-- original: root4.jpg
-- original: backroot.jpg
+- original: inmygi.jpg
+- original: inmyg1x.jpg
+- original: inmyg2.jpg
+- original: inmyg2x.jpg
+- original: inmyg3.jpg
+- original: inmyg3x.jpg
+- original: inmyg4.jpg
+- original: inmyg4x.jpg
+- original: inmyg5.jpg
+- original: inmyg5x.jpg
+- original: inmyg6.jpg
+- original: inmyg6x.jpg
+- original: inmyg7.jpg
+- original: inmyg7x.jpg
+- original: inmyg8.jpg
+- original: inmyg8x.jpg
+- original: inmyg9.jpg
+- original: inmyg9x.jpg
+- original: inmyg10.jpg
+- original: inmyg10x.jpg
+
+
 ---
 >I have been a gardener all of my adult life. As a child I collected seeds for 'La Reforma Agraria' in Cuba. As an undergrad I sowed seeds 
 in paper cups in my Boston apartment. Later when I owned a home I hybridzed daylilies. The life force of seeds has always been a wondrous 
