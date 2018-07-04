@@ -4,9 +4,9 @@ title: In my Garden - the DNA of Memory.
 no_menu_item: true # required only for this example website because of menu construction
 categories: project
 tags: [uprooted, DNA, memory, performance art, encaustic art, garden]
-image: inmygarden.jpg
+image: garden/inmygarden.jpg
 support: [jquery, gallery]
-picture_path: img/garden
+picture_path: garden
 pictures:
 - original: inmygi.jpg
 - original: inmyg1x.jpg
