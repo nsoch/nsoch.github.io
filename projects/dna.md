@@ -28,6 +28,8 @@ pictures:
 - original: inmyg9x.jpg
 - original: inmyg10.jpg
 - original: inmyg10x.jpg
+- original: inmyg11.jpg
+-original: inmyg11x.jpg
 - original: inmygarden.jpg
 
 
