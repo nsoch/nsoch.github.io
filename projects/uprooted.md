@@ -24,13 +24,11 @@ pictures:
 - original: backroot.jpg
 ---
 
-The conceptual world for the Uprroted Project came into fruition in 1999 as an important epiphany.
+As a child of immigrants I have been very aware of being UpRooted.
+As an adult, rather than viewing cultural uprooting as a loss, I saw it as a fuller condition in which the sometimes chaotic 
+disruption of clashing cultures results in the creation of stronger and richer hybrid roots.
 
-As a child of immigrants I have been very aware of being UpRooted. As a child of immigrants I have been very aware of being Uprroted.
-As an adult, rather than viewing cultural uprooting as a loss, I saw it as a fuller, richer condition in shich the seemingly chaotic 
-disruption of clashing cultures actually results in the creation of stronger hybrid roots.
-
-As a biologist I see the earth as one mutable living being with biological entities being some of it's cells. Plants and trees live above ground and underground simultaneously interconnected (visible and not visible, concious and unconscious). Plants and trees embody a form that exists in nature in infinite scale (fractal qualities of matter). A science-fiction story I read over 30 years ago (Alien Earth by Edmond Hamilton, © 1949) permanently changed my poetic view of life. The use of trees as a metaphor for connectedness on the microscopic and macroscopic scale was thus a natural consequence for some later work.
+My scientific background coupled with my art impacts on the conceptual nature of my work. Plants and trees live above ground and underground simultaneously interconnected (visible and not visible, concious and unconscious). Plants and trees embody a form that exists in nature in infinite scale (fractal qualities of matter). A science-fiction story I read over 30 years ago (Alien Earth by Edmond Hamilton, © 1949) permanently changed my poetic view of life. The use of trees as a metaphor for connectedness on the microscopic and macroscopic scale was thus a natural consequence for some later work.
 
 
 {% include gallery.html %}
