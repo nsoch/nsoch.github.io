@@ -8,7 +8,7 @@ image: garden/inmygarden.jpg
 support: [jquery, gallery]
 picture_path: garden
 pictures:
-- original: inmygi.jpg
+- original: inmyg1.jpg
 - original: inmyg1x.jpg
 - original: inmyg2.jpg
 - original: inmyg2x.jpg
@@ -29,12 +29,14 @@ pictures:
 - original: inmyg10.jpg
 - original: inmyg10x.jpg
 - original: inmyg11.jpg
--original: inmyg11x.jpg
+- original: inmyg11x.jpg
+- original: inmyg12.jpg
+- original: inmyg12x.jpg
 - original: inmygarden.jpg
 
 
 ---
->I have been a gardener all of my adult life. As a child I collected seeds for 'La Reforma Agraria' in Cuba. As an undergrad I sowed seeds 
+> I have been a gardener all of my adult life. As a child I collected seeds for 'La Reforma Agraria' in Cuba. As an undergrad I sowed seeds 
 in paper cups in my Boston apartment. Later when I owned a home I hybridzed daylilies. The life force of seeds has always been a wondrous 
 entity that gives me great awe just to be alive. I view words as seeds (or at times as viral infections).
 
