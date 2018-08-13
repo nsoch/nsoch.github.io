@@ -7,7 +7,7 @@
  directory: thesis
  image: frontcardtest1.jpg
 -
- title: Americana Hispana and Retablos
+ title: Americana Hispana, Retablos, and Move Over Andy
  directory: retablos
  image: dreaming.jpg
 -
@@ -24,31 +24,19 @@
  image: 1.jpg
 -
  title: NKG Boston Installation
- directory: neuromorphic
+ directory: nmnkg
  image: 1.jpg
 -
  title: Paintings for Children
  directory: child
  image:
  -
- title: Artist Books
- directory: book
- image:
- -
- title: Photography
- directory: foto
- image:
- -
  title: Paul Ingbretson Atelier
  directory: atelier
  image:
  -
- title: Move Over Andy
- directory: andy
- image:
- -
- title: Video
- directory: vid
+ title: Artist books and Video
+ directory: book
  image:
  
  
