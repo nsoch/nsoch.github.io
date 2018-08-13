@@ -6,7 +6,7 @@
 		mouse = {x:0,y:0},
 		radius = 1;
 
-	var colors = ["#468966","#FFF0A5", "#FFB03B","#B64926", "#8E2800"];
+	var colors = ["#189654","#a331f9", "#18cbdb","#bc0977", "#0a1dad"];
 
 	var copy = document.querySelector("#copy");
 
