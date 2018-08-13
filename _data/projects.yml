@@ -1,5 +1,5 @@
 -
- title: Uprooted
+ title: Uprooted - NeuroMorphic Universe
  directory: uprooted
  image: uprooted.jpg
 -
@@ -7,7 +7,7 @@
  directory: thesis
  image: frontcardtest1.jpg
 -
- title: Retablos
+ title: Americana Hispana and Retablos
  directory: retablos
  image: dreaming.jpg
 -
@@ -19,10 +19,41 @@
  directory: reconstruction
  image: reconst.jpg
 -
- title: Neuromorphic Universe
- directory: universe
- image: infection.jpg
--
  title: Beland Installation
  directory: neuromorphic
  image: 1.jpg
+-
+ title: NKG Boston Installation
+ directory: neuromorphic
+ image: 1.jpg
+-
+ title: Paintings for Children
+ directory: child
+ image:
+ -
+ title: Artist Books
+ directory: book
+ image:
+ -
+ title: Photography
+ directory: photo
+ image:
+ -
+ title: Paul Ingbretson Atelier
+ directory: atelier
+ image:
+ -
+ title: Move Over Andy
+ directory: andy
+ image:
+ -
+ title: Video
+ directory: vid
+ image:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
