@@ -7,7 +7,7 @@ menu:
 - {name: 'Projects', folder: 'pages', file: 'projects'}
 - {name: 'Thinking', folder: 'pages', file: 'blog'}
 - {name: 'About', folder: 'pages', file: 'about'}
-- {name: 'NKG Boston', link: 'https://github.com/vsoch/nkg'}
+- {name: 'NKG Boston', link: 'http://www.natacha.net/nkgport.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
