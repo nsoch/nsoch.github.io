@@ -3,9 +3,9 @@
  directory: uprooted
  image: uprooted.jpg
 -
- title: Beland Installation
- directory: neuromorphic
- image: 1.jpg
+ title: MFA Thesis
+ directory: thesis
+ image: frontcardtest1.jpg
 -
  title: Retablos
  directory: retablos
@@ -15,7 +15,7 @@
  directory: dna
  image: inmygarden.jpg
 -
- title: Reconstruction
+ title: Intuitive
  directory: reconstruction
  image: reconst.jpg
 -
@@ -23,6 +23,6 @@
  directory: universe
  image: infection.jpg
 -
- title: MFA Thesis
- directory: thesis
- image: frontcardtest1.jpg
+ title: Beland Installation
+ directory: neuromorphic
+ image: 1.jpg
