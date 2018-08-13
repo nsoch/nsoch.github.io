@@ -15,7 +15,7 @@
  directory: dna
  image: inmygarden.jpg
 -
- title: Intuitive
+ title: Intuitive - Reconstruction
  directory: reconstruction
  image: reconst.jpg
 -
@@ -36,7 +36,7 @@
  image:
  -
  title: Photography
- directory: photo
+ directory: foto
  image:
  -
  title: Paul Ingbretson Atelier
