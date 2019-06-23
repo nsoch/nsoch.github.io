@@ -4,8 +4,8 @@ disqus:
   disqus_shortname: 'natacha'
 
 menu:
-- {name: 'Portfolio', link: https://natachasochat.myportfolio.com/work'}
-- {name: 'Natacha Net', link: http://www.natacha.net/'}
+- {name: 'Portfolio', link: 'https://natachasochat.myportfolio.com/work'}
+- {name: 'Natacha Net', link: 'http://www.natacha.net/'}
 - {name: 'About', folder: 'pages', file: 'about'}
 - {name: 'NKG Boston', link: 'http://www.natacha.net/NKGBoston2012/index.html'}
 - {name: 'Contact', link: 'https://natachasochat.myportfolio.com/contact'}
