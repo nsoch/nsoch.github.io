@@ -4,12 +4,7 @@ disqus:
   disqus_shortname: 'natacha'
 
 menu:
-- {name: 'Portfolio', link: 'https://natachasochat.myportfolio.com/work'}
-- {name: 'Natacha Net', link: 'http://www.natacha.net/'}
 - {name: 'About', folder: 'pages', file: 'about'}
-- {name: 'NKG Boston', link: 'http://www.natacha.net/NKGBoston2012/index.html'}
-- {name: 'Contact', link: 'https://natachasochat.myportfolio.com/contact'}
-- {name: 'wildDreamer Studio', link: 'https://wilddreamer-studio.business.site/'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
